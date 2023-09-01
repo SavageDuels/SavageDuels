@@ -1,3 +1,3 @@
-# Test
+# Welcome to Savage Duels!
 
-## Test
+## Rules
