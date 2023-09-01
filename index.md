@@ -6,8 +6,6 @@
 3. Show respect and refrain from engaging in any form of offensive or bothersome behavior.
 If you don't follow the rules, you may face a ban.
 
----
-
 ## Teleports
 You can type the following commands in the chat to teleport within the map.
 - tp cc - teleport to the center of the map.
